@@ -26,7 +26,10 @@ function generate() {
         "Rush Gray",
         "Island only challenge",
         "Only stay at ones persons base",
-        "Protect your base and someone elses base."
+        "Protect your base and someone elses base.",
+        "Every time you kill someone you have to go back to your base. (and go back to that place if you want to.)",
+        "No Gold",
+        "No Gapples"
     ]
 
     const change = document.getElementById("b");
