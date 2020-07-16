@@ -1,6 +1,6 @@
 body {
-	background: rgb(199,0,0);
-	background: linear-gradient(180deg, rgba(199,0,0,1) 60%, rgba(214,0,0,1) 65%, rgba(255,0,0,1) 100%);	
+background: rgb(199,0,0);
+background: linear-gradient(180deg, rgba(199,0,0,1) 60%, rgba(214,0,0,1) 65%, rgba(255,0,0,1) 100%);	
 }
 .generate {
 	box-shadow:inset 0px 32px 0px -24px #e67a73;
