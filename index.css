@@ -1,0 +1,47 @@
+.generate {
+	box-shadow:inset 0px 32px 0px -24px #e67a73;
+	background:linear-gradient(to bottom, #e4685d 5%, #eb675e 100%);
+	background-color:#e4685d;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:28px;
+	font-weight:bold;
+    padding:28px 76px;
+    margin: 0px;
+    position: absolute;
+	text-decoration:none;
+    text-shadow:3px 3px 0px #b23e35;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.generate:hover {
+	background:linear-gradient(to bottom, #eb675e 5%, #e4685d 100%);
+    background-color:#eb675e;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.generate:active {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.div {
+    text-align: center;
+    font-family:Trebuchet MS;
+}
+
+#b {
+    text-align: center;
+    font-family:Trebuchet MS;
+}
