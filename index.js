@@ -24,12 +24,13 @@ function generate() {
         "Rush White",
         "Rush Pink",
         "Rush Gray",
-        "Island only challenge",
         "Only stay at ones persons base",
         "Protect your base and someone elses base.",
         "Every time you kill someone you have to go back to your base. (and go back to that place if you want to.)",
         "No Gold",
-        "No Gapples"
+        "No Gapples",
+        "No final kills. (it can't count as your final kill)",
+        "Sideways Only"
     ]
 
     const change = document.getElementById("b");
