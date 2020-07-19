@@ -39,6 +39,8 @@
 .div {
     text-align: center;
     font-family:Trebuchet MS;
+    background:linear-gradient(to bottom, #e4685d 5%, #eb675e 100%);
+    background-color:#e4685d;
 }
 
 #b {
